@@ -1,4 +1,4 @@
-# DS4002-Project-3
+# DS 3001 - Final Project
 ## Contents
 This repository contains all files, code, and documentation for our image-classification analysis of apple leaf diseases, using multiple machine-learning and deep-learning models. It includes Jupyter notebooks for data preprocessing, image augmentation, model training, and evaluation across traditional machine-learning baselines and convolutional neural networks (CNNs). All raw images, cleaned datasets, intermediate outputs, and trained model artifacts are organized into dedicated folders to support clarity, reproducibility, and transparent experimentation. Visualizations, performance metrics, and exported predictions are stored in the Output directory, while all workflow scripts—including data ingestion, modeling pipelines, and evaluation routines—are contained in the Scripts directory.
 
